@@ -1,2 +1,2 @@
-# test
-For PyLovers
+# Ejercicios
+Ejercicios en general
